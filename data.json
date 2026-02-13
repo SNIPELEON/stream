@@ -1,0 +1,669 @@
+[
+  {
+    "id": 30,
+    "name": "Clara Collins",
+    "experience_years": 15,
+    "skills": [
+      "Budgeting",
+      "Supply Chain",
+      "Waste Management",
+      "Lean Manufacturing"
+    ],
+    "candidate_id": 30,
+    "crisis_management_score": 10,
+    "sustainability_score": 7,
+    "team_motivation_score": 10,
+    "comments": "Spes natus vilitas comparo.",
+    "rank": 1
+  },
+  {
+    "id": 11,
+    "name": "Latoya Zboncak",
+    "experience_years": 10,
+    "skills": [
+      "Team Leadership",
+      "Lean Manufacturing",
+      "Waste Management",
+      "Process Optimization"
+    ],
+    "candidate_id": 11,
+    "crisis_management_score": 8,
+    "sustainability_score": 8,
+    "team_motivation_score": 9,
+    "comments": "Aveho doloremque patrocinor urbanus degenero.",
+    "rank": 2
+  },
+  {
+    "id": 12,
+    "name": "Friedrich Hahn-Bednar",
+    "experience_years": 18,
+    "skills": [
+      "Six Sigma",
+      "Budgeting"
+    ],
+    "candidate_id": 12,
+    "crisis_management_score": 3,
+    "sustainability_score": 10,
+    "team_motivation_score": 8,
+    "comments": "Universe in infit impedit bardus timidus tum capto.",
+    "rank": 3
+  },
+  {
+    "id": 24,
+    "name": "Dr. Quentin Will",
+    "experience_years": 15,
+    "skills": [
+      "Supply Chain",
+      "Budgeting",
+      "Six Sigma",
+      "Lean Manufacturing"
+    ],
+    "candidate_id": 24,
+    "crisis_management_score": 9,
+    "sustainability_score": 5,
+    "team_motivation_score": 7,
+    "comments": "Tenetur curis ait tempora atque votum via aestus cursus.",
+    "rank": 4
+  },
+  {
+    "id": 37,
+    "name": "Dominic Walsh",
+    "experience_years": 13,
+    "skills": [
+      "Lean Manufacturing",
+      "OSHA Certified",
+      "Six Sigma",
+      "Budgeting"
+    ],
+    "candidate_id": 37,
+    "crisis_management_score": 6,
+    "sustainability_score": 10,
+    "team_motivation_score": 5,
+    "comments": "Casso expedita provident vociferor titulus nam modi bis modi aggero.",
+    "rank": 5
+  },
+  {
+    "id": 17,
+    "name": "Cleveland Conn",
+    "experience_years": 12,
+    "skills": [
+      "Supply Chain",
+      "Lean Manufacturing",
+      "Budgeting",
+      "Team Leadership"
+    ],
+    "candidate_id": 17,
+    "crisis_management_score": 5,
+    "sustainability_score": 6,
+    "team_motivation_score": 9,
+    "comments": "Officiis repellat ceno totidem cupiditas animi vita.",
+    "rank": 6
+  },
+  {
+    "id": 29,
+    "name": "Michelle Durgan-Stokes",
+    "experience_years": 13,
+    "skills": [
+      "Lean Manufacturing",
+      "Process Optimization"
+    ],
+    "candidate_id": 29,
+    "crisis_management_score": 6,
+    "sustainability_score": 5,
+    "team_motivation_score": 9,
+    "comments": "Studio adhuc conduco alienus decerno vinitor undique denuo utroque curia.",
+    "rank": 7
+  },
+  {
+    "id": 35,
+    "name": "Melvin Mraz",
+    "experience_years": 4,
+    "skills": [
+      "Process Optimization",
+      "Budgeting",
+      "Waste Management",
+      "Lean Manufacturing"
+    ],
+    "candidate_id": 35,
+    "crisis_management_score": 9,
+    "sustainability_score": 2,
+    "team_motivation_score": 8,
+    "comments": "Creptio corroboro una abscido tremo cavus.",
+    "rank": 8
+  },
+  {
+    "id": 6,
+    "name": "Eva Koepp DDS",
+    "experience_years": 14,
+    "skills": [
+      "Budgeting",
+      "Lean Manufacturing",
+      "OSHA Certified",
+      "Process Optimization"
+    ],
+    "candidate_id": 6,
+    "crisis_management_score": 4,
+    "sustainability_score": 6,
+    "team_motivation_score": 8,
+    "comments": "Allatus occaecati modi velit.",
+    "rank": 9
+  },
+  {
+    "id": 7,
+    "name": "Lilliana Gulgowski",
+    "experience_years": 11,
+    "skills": [
+      "Supply Chain",
+      "Budgeting",
+      "Process Optimization",
+      "Six Sigma"
+    ],
+    "candidate_id": 7,
+    "crisis_management_score": 3,
+    "sustainability_score": 10,
+    "team_motivation_score": 5,
+    "comments": "Victus tantillus tribuo tamen tremo.",
+    "rank": 10
+  },
+  {
+    "id": 10,
+    "name": "Rodolfo Harber PhD",
+    "experience_years": 12,
+    "skills": [
+      "Supply Chain",
+      "Process Optimization",
+      "Six Sigma"
+    ],
+    "candidate_id": 10,
+    "crisis_management_score": 3,
+    "sustainability_score": 9,
+    "team_motivation_score": 5,
+    "comments": "Centum alias anser ubi avarus volva attero sumptus.",
+    "rank": 11
+  },
+  {
+    "id": 5,
+    "name": "Shirley Durgan Sr.",
+    "experience_years": 6,
+    "skills": [
+      "OSHA Certified",
+      "Supply Chain",
+      "Process Optimization",
+      "Waste Management"
+    ],
+    "candidate_id": 5,
+    "crisis_management_score": 5,
+    "sustainability_score": 4,
+    "team_motivation_score": 7,
+    "comments": "Umbra sumo utor ter labore cito.",
+    "rank": 12
+  },
+  {
+    "id": 22,
+    "name": "Camren Kunde",
+    "experience_years": 4,
+    "skills": [
+      "Six Sigma",
+      "Budgeting"
+    ],
+    "candidate_id": 22,
+    "crisis_management_score": 5,
+    "sustainability_score": 4,
+    "team_motivation_score": 7,
+    "comments": "Dignissimos decet vomito vergo statua comis adflicto.",
+    "rank": 13
+  },
+  {
+    "id": 25,
+    "name": "Gustavo Rippin",
+    "experience_years": 18,
+    "skills": [
+      "Lean Manufacturing",
+      "Budgeting",
+      "Process Optimization"
+    ],
+    "candidate_id": 25,
+    "crisis_management_score": 9,
+    "sustainability_score": 6,
+    "team_motivation_score": 1,
+    "comments": "Denuo demum voluptatem decretum convoco.",
+    "rank": 14
+  },
+  {
+    "id": 4,
+    "name": "Brent Klocko",
+    "experience_years": 10,
+    "skills": [
+      "Lean Manufacturing",
+      "Supply Chain",
+      "Process Optimization",
+      "Team Leadership",
+      "Budgeting"
+    ],
+    "candidate_id": 4,
+    "crisis_management_score": 1,
+    "sustainability_score": 6,
+    "team_motivation_score": 8,
+    "comments": "Cursim amplitudo sumo pauci antepono sed non delibero.",
+    "rank": 15
+  },
+  {
+    "id": 15,
+    "name": "Gerald Quigley",
+    "experience_years": 7,
+    "skills": [
+      "Team Leadership",
+      "Six Sigma",
+      "Waste Management",
+      "Supply Chain"
+    ],
+    "candidate_id": 15,
+    "crisis_management_score": 7,
+    "sustainability_score": 6,
+    "team_motivation_score": 2,
+    "comments": "Sapiente thesis recusandae.",
+    "rank": 16
+  },
+  {
+    "id": 18,
+    "name": "Kerry McDermott",
+    "experience_years": 6,
+    "skills": [
+      "Six Sigma",
+      "Team Leadership",
+      "Lean Manufacturing",
+      "Process Optimization",
+      "Budgeting"
+    ],
+    "candidate_id": 18,
+    "crisis_management_score": 6,
+    "sustainability_score": 5,
+    "team_motivation_score": 4,
+    "comments": "Atavus abduco attollo deserunt surculus brevis acceptus soleo abscido occaecati.",
+    "rank": 17
+  },
+  {
+    "id": 32,
+    "name": "Gloria Murphy",
+    "experience_years": 8,
+    "skills": [
+      "OSHA Certified",
+      "Supply Chain",
+      "Budgeting"
+    ],
+    "candidate_id": 32,
+    "crisis_management_score": 5,
+    "sustainability_score": 8,
+    "team_motivation_score": 2,
+    "comments": "Urbanus tutamen stabilis acceptus.",
+    "rank": 18
+  },
+  {
+    "id": 33,
+    "name": "Russel Satterfield",
+    "experience_years": 9,
+    "skills": [
+      "Supply Chain",
+      "Waste Management"
+    ],
+    "candidate_id": 33,
+    "crisis_management_score": 3,
+    "sustainability_score": 9,
+    "team_motivation_score": 3,
+    "comments": "Adipiscor territo turpis vulticulus thermae desidero harum accusamus apostolus totam.",
+    "rank": 19
+  },
+  {
+    "id": 36,
+    "name": "Kevon Murray",
+    "experience_years": 11,
+    "skills": [
+      "Process Optimization",
+      "OSHA Certified",
+      "Supply Chain",
+      "Lean Manufacturing"
+    ],
+    "candidate_id": 36,
+    "crisis_management_score": 4,
+    "sustainability_score": 10,
+    "team_motivation_score": 1,
+    "comments": "Aggero adhaero ambitus despecto sollicito terreo dolore crebro eaque vulgo.",
+    "rank": 20
+  },
+  {
+    "id": 38,
+    "name": "Landen Block-Harber",
+    "experience_years": 7,
+    "skills": [
+      "Supply Chain",
+      "Team Leadership",
+      "Process Optimization",
+      "OSHA Certified"
+    ],
+    "candidate_id": 38,
+    "crisis_management_score": 2,
+    "sustainability_score": 5,
+    "team_motivation_score": 8,
+    "comments": "Aetas catena aperiam tergiversatio caelestis deorsum.",
+    "rank": 21
+  },
+  {
+    "id": 40,
+    "name": "Melany Schaefer",
+    "experience_years": 4,
+    "skills": [
+      "Supply Chain",
+      "Budgeting",
+      "Six Sigma"
+    ],
+    "candidate_id": 40,
+    "crisis_management_score": 3,
+    "sustainability_score": 6,
+    "team_motivation_score": 6,
+    "comments": "Vociferor vomito nulla amet.",
+    "rank": 22
+  },
+  {
+    "id": 2,
+    "name": "Sigrid Kreiger V",
+    "experience_years": 2,
+    "skills": [
+      "Process Optimization",
+      "Six Sigma",
+      "Waste Management",
+      "Lean Manufacturing",
+      "Supply Chain"
+    ],
+    "candidate_id": 2,
+    "crisis_management_score": 4,
+    "sustainability_score": 4,
+    "team_motivation_score": 6,
+    "comments": "Tabgo certe balbus cohors.",
+    "rank": 23
+  },
+  {
+    "id": 3,
+    "name": "Jacqueline Jacobson",
+    "experience_years": 13,
+    "skills": [
+      "Supply Chain",
+      "Process Optimization"
+    ],
+    "candidate_id": 3,
+    "crisis_management_score": 2,
+    "sustainability_score": 6,
+    "team_motivation_score": 6,
+    "comments": "Comminor defungo officiis testimonium volaticus repellat cruentus vulticulus.",
+    "rank": 24
+  },
+  {
+    "id": 13,
+    "name": "Melanie Heaney",
+    "experience_years": 16,
+    "skills": [
+      "Six Sigma",
+      "Team Leadership",
+      "Process Optimization"
+    ],
+    "candidate_id": 13,
+    "crisis_management_score": 2,
+    "sustainability_score": 3,
+    "team_motivation_score": 9,
+    "comments": "Valens combibo distinctio custodia sono defluo debeo cunctatio ulciscor somnus.",
+    "rank": 25
+  },
+  {
+    "id": 28,
+    "name": "Regina Doyle",
+    "experience_years": 13,
+    "skills": [
+      "Supply Chain",
+      "OSHA Certified",
+      "Process Optimization",
+      "Six Sigma"
+    ],
+    "candidate_id": 28,
+    "crisis_management_score": 1,
+    "sustainability_score": 6,
+    "team_motivation_score": 7,
+    "comments": "Aeneus cattus decretum bestia speciosus verumtamen claro vacuus contigo.",
+    "rank": 26
+  },
+  {
+    "id": 31,
+    "name": "Dr. Scott Reynolds",
+    "experience_years": 11,
+    "skills": [
+      "Lean Manufacturing",
+      "OSHA Certified"
+    ],
+    "candidate_id": 31,
+    "crisis_management_score": 2,
+    "sustainability_score": 5,
+    "team_motivation_score": 7,
+    "comments": "Coniecto adicio utrimque curto.",
+    "rank": 27
+  },
+  {
+    "id": 1,
+    "name": "Aryanna Paucek-Frami",
+    "experience_years": 3,
+    "skills": [
+      "Six Sigma",
+      "Team Leadership",
+      "Budgeting",
+      "Lean Manufacturing",
+      "Waste Management"
+    ],
+    "candidate_id": 1,
+    "crisis_management_score": 7,
+    "sustainability_score": 4,
+    "team_motivation_score": 2,
+    "comments": "Sum adipiscor admoneo adulatio speciosus.",
+    "rank": 28
+  },
+  {
+    "id": 8,
+    "name": "Harry Grady",
+    "experience_years": 14,
+    "skills": [
+      "OSHA Certified",
+      "Waste Management",
+      "Six Sigma",
+      "Team Leadership"
+    ],
+    "candidate_id": 8,
+    "crisis_management_score": 5,
+    "sustainability_score": 2,
+    "team_motivation_score": 6,
+    "comments": "Voluptas admitto aduro subvenio tertius valde demo deprimo recusandae.",
+    "rank": 29
+  },
+  {
+    "id": 16,
+    "name": "Monica Fisher",
+    "experience_years": 5,
+    "skills": [
+      "Process Optimization",
+      "Team Leadership",
+      "OSHA Certified",
+      "Budgeting"
+    ],
+    "candidate_id": 16,
+    "crisis_management_score": 10,
+    "sustainability_score": 1,
+    "team_motivation_score": 1,
+    "comments": "Degenero absum magni aer coma tutamen virga desidero usus.",
+    "rank": 30
+  },
+  {
+    "id": 19,
+    "name": "Ricky Gorczany",
+    "experience_years": 19,
+    "skills": [
+      "Six Sigma",
+      "Team Leadership",
+      "Process Optimization",
+      "Waste Management"
+    ],
+    "candidate_id": 19,
+    "crisis_management_score": 4,
+    "sustainability_score": 2,
+    "team_motivation_score": 6,
+    "comments": "Vulnero auctor deduco paulatim.",
+    "rank": 31
+  },
+  {
+    "id": 23,
+    "name": "Kelvin Hickle",
+    "experience_years": 6,
+    "skills": [
+      "OSHA Certified",
+      "Waste Management",
+      "Supply Chain",
+      "Lean Manufacturing",
+      "Process Optimization"
+    ],
+    "candidate_id": 23,
+    "crisis_management_score": 5,
+    "sustainability_score": 2,
+    "team_motivation_score": 5,
+    "comments": "Deputo suppono vestigium officiis culpa suscipio valde uterque toties.",
+    "rank": 32
+  },
+  {
+    "id": 34,
+    "name": "Dr. Anne Bashirian",
+    "experience_years": 13,
+    "skills": [
+      "Supply Chain",
+      "Team Leadership",
+      "Lean Manufacturing",
+      "Process Optimization",
+      "Waste Management"
+    ],
+    "candidate_id": 34,
+    "crisis_management_score": 4,
+    "sustainability_score": 2,
+    "team_motivation_score": 6,
+    "comments": "Corporis conor iure delectatio depereo thema copiose cavus.",
+    "rank": 33
+  },
+  {
+    "id": 20,
+    "name": "Alexandrea Herman",
+    "experience_years": 9,
+    "skills": [
+      "OSHA Certified",
+      "Waste Management"
+    ],
+    "candidate_id": 20,
+    "crisis_management_score": 2,
+    "sustainability_score": 7,
+    "team_motivation_score": 2,
+    "comments": "Acceptus caste amita.",
+    "rank": 34
+  },
+  {
+    "id": 26,
+    "name": "Belle Armstrong",
+    "experience_years": 3,
+    "skills": [
+      "Lean Manufacturing",
+      "Process Optimization",
+      "Team Leadership"
+    ],
+    "candidate_id": 26,
+    "crisis_management_score": 2,
+    "sustainability_score": 2,
+    "team_motivation_score": 7,
+    "comments": "Totidem eaque stultus.",
+    "rank": 35
+  },
+  {
+    "id": 9,
+    "name": "Scot Rogahn",
+    "experience_years": 2,
+    "skills": [
+      "Process Optimization",
+      "Lean Manufacturing",
+      "Six Sigma",
+      "Supply Chain",
+      "Budgeting"
+    ],
+    "candidate_id": 9,
+    "crisis_management_score": 2,
+    "sustainability_score": 4,
+    "team_motivation_score": 4,
+    "comments": "Molestias subiungo constans.",
+    "rank": 36
+  },
+  {
+    "id": 39,
+    "name": "Barbara Barrows",
+    "experience_years": 16,
+    "skills": [
+      "Waste Management",
+      "Team Leadership"
+    ],
+    "candidate_id": 39,
+    "crisis_management_score": 2,
+    "sustainability_score": 6,
+    "team_motivation_score": 2,
+    "comments": "Vorago cupressus adaugeo culpa molestiae sonitus timidus ago.",
+    "rank": 37
+  },
+  {
+    "id": 21,
+    "name": "Camille Dach",
+    "experience_years": 14,
+    "skills": [
+      "Supply Chain",
+      "OSHA Certified",
+      "Team Leadership",
+      "Budgeting",
+      "Process Optimization"
+    ],
+    "candidate_id": 21,
+    "crisis_management_score": 1,
+    "sustainability_score": 1,
+    "team_motivation_score": 7,
+    "comments": "Cur calcar capio volaticus vigilo solitudo triumphus toties cicuta coma.",
+    "rank": 38
+  },
+  {
+    "id": 14,
+    "name": "Miss Betty Mayert",
+    "experience_years": 3,
+    "skills": [
+      "Supply Chain",
+      "Six Sigma",
+      "Waste Management",
+      "OSHA Certified",
+      "Lean Manufacturing"
+    ],
+    "candidate_id": 14,
+    "crisis_management_score": 4,
+    "sustainability_score": 2,
+    "team_motivation_score": 2,
+    "comments": "Cado ulciscor placeat ocer.",
+    "rank": 39
+  },
+  {
+    "id": 27,
+    "name": "Carole Cronin",
+    "experience_years": 4,
+    "skills": [
+      "Supply Chain",
+      "OSHA Certified",
+      "Waste Management",
+      "Budgeting"
+    ],
+    "candidate_id": 27,
+    "crisis_management_score": 2,
+    "sustainability_score": 5,
+    "team_motivation_score": 1,
+    "comments": "Colligo cohaero delectus depono ullus vado repellat talis argentum.",
+    "rank": 40
+  }
+]
